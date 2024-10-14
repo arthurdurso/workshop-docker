@@ -1,4 +1,4 @@
-# workshop-docker
+# Workshop de Docker
 
 Para conseguir rodar o código, siga os seguintes passos no Git Bash:
 
